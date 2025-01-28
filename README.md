@@ -1,5 +1,5 @@
 
-# Diviup
+# DiviUp
 
 Diviup is a next-generation social media platform designed to empower creators and users through a decentralized, community-driven approach. This project is built with cutting-edge technologies to deliver a seamless and engaging mobile experience.
 
